@@ -1,5 +1,7 @@
 # CUinspace
 
+![CUinspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=CUinspace&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
