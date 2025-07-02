@@ -1,6 +1,6 @@
 # CUinspace233
 
-![CUinspace233's GitHub stats](https://github-readme-stats.vercel.app/api?username=CUinspace233&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true&theme=dark)
+![CUinspace233's GitHub stats](https://github-readme-stats.vercel.app/api?username=CUinspace233&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true&theme=dark&rank_icon=percentile)
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
