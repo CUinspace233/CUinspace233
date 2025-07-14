@@ -31,6 +31,7 @@
 
 ### DevOps:
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🛠 Projects
 ### Mock Mate - Your AI Interview Coach
