@@ -1,6 +1,14 @@
 # CUinspace233
 
-![CUinspace233's GitHub stats](https://github-readme-stats.vercel.app/api?username=CUinspace233&show_icons=true\&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&theme=dark&hide=issues)
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CUinspace233&theme=jolly" alt="Profile Details">
+</p>
+
+<p align="center">
+  <img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CUinspace233&theme=jolly" alt="Repos per Language">
+  <img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CUinspace233&theme=jolly" alt="Stats">
+  <img width="32.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CUinspace233&theme=jolly&utcOffset=8" alt="Productive Time">
+</p>
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
