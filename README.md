@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=xxxbrian%2Fxxxbrian&label=VISITORS&labelColor=%23000&countColor=%230A0209&style=flat-square">
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=xxxbrian%2FCUinspace233&label=VISITORS&labelColor=%23000&countColor=%230A0209&style=flat-square">
 
 <h2 align="center">
   CUinspace233's Github Profile
