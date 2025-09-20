@@ -1,4 +1,8 @@
-# CUinspace233
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=xxxbrian%2Fxxxbrian&label=VISITORS&labelColor=%23000&countColor=%230A0209&style=flat-square">
+
+<h2 align="center">
+  CUinspace233's Github Profile
+</h2>
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CUinspace233&theme=jolly" alt="Profile Details">
