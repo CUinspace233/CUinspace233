@@ -50,6 +50,7 @@
 ### Mock Mate - Your AI Interview Coach
 A comprehensive interview practice platform that simulates real-world technical interviews. The system combines AI-powered question generation, automated answer evaluation, and trending news-based interview questions to provide an up-to-date and realistic interview experience.
 - Tech Stack: React + Vite + FastAPI + SQLite
+- [Have a try](https://mockmate.cuinspace.com/)
 - [View Project](https://github.com/CUinspace233/mock-mate)
 
 ### StudyShare
