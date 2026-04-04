@@ -47,7 +47,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🛠 Projects
-### Mock Mate - Your AI Interview Coach
+### [Mock Mate - Your AI Interview Coach](https://mockmate.cuinspace.com/)
 A comprehensive interview practice platform that simulates real-world technical interviews. The system combines AI-powered question generation, automated answer evaluation, and trending news-based interview questions to provide an up-to-date and realistic interview experience.
 - Tech Stack: React + Vite + FastAPI + SQLite
 - [Have a try](https://mockmate.cuinspace.com/)
