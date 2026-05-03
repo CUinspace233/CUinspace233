@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gmforzh@gmail.com">Email</a> ·
-  <a href="https://mockmate.cuinspace.com/">MockMate</a> ·
+  <a href="mailto:gmforzh@gmail.com">Email</a>
 </p>
 
 <p align="center">
