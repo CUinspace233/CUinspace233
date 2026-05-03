@@ -1,13 +1,9 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=xxxbrian%2FCUinspace233&label=VISITORS&labelColor=%23000&countColor=%230A0209&style=flat-square" alt="Visitors">
 
-<h1 align="center">Hi, I'm CUinspace233</h1>
+<h1 align="center">Hi, I'm Zehan Lin</h1>
 
 <p align="center">
   <strong>Full-Stack Engineer</strong> · React / Next.js · Python / FastAPI · AI-powered tooling
-</p>
-
-<p align="center">
-  <a href="mailto:gmforzh@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -58,13 +54,13 @@ I'm a Computer Science student at UNSW Sydney, graduating in June 2026. I build 
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/CUinspace233/codex-profile-manager">Codex Profile Manager</a></h3>
       <p><strong>Apr 2026</strong></p>
       <p>A small CLI helper for keeping multiple ChatGPT and API-key Codex logins side by side, with each profile running from its own isolated <code>CODEX_HOME</code>.</p>
       <p><code>Shell</code> <code>Codex CLI</code> <code>CODEX_HOME</code> <code>API Key</code> <code>Auth Profiles</code></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/CUinspace233/web-font-switcher">web-font-switcher</a></h3>
       <p><strong>May 2026</strong></p>
       <p>A Chrome extension that applies different fonts based on page text language, with live previews and custom font support.</p>
@@ -72,14 +68,14 @@ I'm a Computer Science student at UNSW Sydney, graduating in June 2026. I build 
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://mockmate.cuinspace.com/">MockMate - Your AI Interview Coach</a></h3>
       <p><strong>July 2025</strong></p>
       <p>A multi-round AI interview training platform covering question generation, follow-ups, answer collection, holistic AI evaluation, records, and daily challenge pushes.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>SQLite</code></p>
       <p><a href="https://github.com/CUinspace233/mock-mate">View Repository</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/sususu5/StudyShare">StudyShare</a></h3>
       <p>A platform where students can share course notes and study materials.</p>
       <p><code>React</code> <code>Vite</code> <code>Express.js</code></p>
