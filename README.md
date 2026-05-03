@@ -1,6 +1,6 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=xxxbrian%2FCUinspace233&label=VISITORS&labelColor=%23000&countColor=%230A0209&style=flat-square" alt="Visitors">
 
-<h1 align="center">Hi, I'm Zehan Lin</h1>
+<h1 align="center">Hi, I'm CUinspace233</h1>
 
 <p align="center">
   <strong>Full-Stack Engineer</strong> · React / Next.js · Python / FastAPI · AI-powered tooling
