@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=CUinspace233&theme=jolly&show_icons=true&hide_rank=true&custom_title=CUinspace233%27s%20GitHub%20Stats&show=stars,commits,prs,prs_merged_percentage,issues,prs_reviewed,contribs" alt="GitHub Stats">
+  <img width="600" src="https://github-stats-extended.vercel.app/api?username=CUinspace233&theme=jolly&show_icons=true&hide_rank=true&card_width=600&custom_title=CUinspace233%27s%20GitHub%20Stats&show=stars,commits,prs,prs_merged_percentage,issues,prs_reviewed,contribs" alt="GitHub Stats">
 </p>
 
 ## About
