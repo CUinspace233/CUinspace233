@@ -12,7 +12,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=CUinspace233&theme=jolly&langs_count=6&layout=compact" alt="Top Languages">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=CUinspace233&theme=jolly&show_icons=true" alt="Stats">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=CUinspace233&repo=codex-profile-manager&theme=jolly" alt="Pinned Repo: codex-profile-manager">
 </p>
 
 ## About
