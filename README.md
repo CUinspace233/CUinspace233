@@ -7,11 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=CUinspace233&theme=jolly&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=CUinspace233&theme=jolly&langs_count=6&layout=compact" alt="Top Languages">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=CUinspace233&theme=jolly&show_icons=true&hide_rank=true&custom_title=CUinspace233%27s%20GitHub%20Stats&show=stars,commits,prs,prs_merged_percentage,issues,prs_reviewed,contribs" alt="GitHub Stats">
 </p>
 
 ## About
