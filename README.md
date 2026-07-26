@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-  <img width="32.5%" src="https://github-stats-extended.vercel.app/api/top-langs?username=CUinspace233&theme=jolly&langs_count=6&layout=compact" alt="Top Languages">
-  <img width="32.5%" src="https://github-stats-extended.vercel.app/api?username=CUinspace233&theme=jolly&show_icons=true&rank_icon=github" alt="Stats">
-  <img width="32.5%" src="https://github-stats-extended.vercel.app/api/wakatime?username=CUinspace233&theme=jolly&langs_count=4" alt="WakaTime Stats">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=CUinspace233&theme=jolly&langs_count=6&layout=compact" alt="Top Languages">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=CUinspace233&theme=jolly&show_icons=true" alt="Stats">
 </p>
 
 ## About
