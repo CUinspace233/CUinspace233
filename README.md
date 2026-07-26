@@ -10,10 +10,16 @@
   <img width="100%" src="https://github-stats-extended.vercel.app/api?username=CUinspace233&theme=jolly&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=CUinspace233&theme=jolly&langs_count=6&layout=compact" alt="Top Languages">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=CUinspace233&repo=codex-profile-manager&theme=jolly" alt="Pinned Repo: codex-profile-manager">
-</p>
+<table align="center">
+  <tr>
+    <td width="49%" valign="top">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=CUinspace233&theme=jolly&langs_count=6&layout=compact" alt="Top Languages">
+    </td>
+    <td width="49%" valign="top">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/pin?username=CUinspace233&repo=codex-profile-manager&theme=jolly&show_owner=false" alt="Pinned Repo: codex-profile-manager">
+    </td>
+  </tr>
+</table>
 
 ## About
 
